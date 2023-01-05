@@ -1,8 +1,3 @@
-Hello Everyone, I am <b>Saurabh kumar</b> second year <b>Electronics and Communication Engineering</b> branch student at Bharati Vidyapeeth University, College Of Engineering, Pune. Currently, I am learning <b>FrontEnd Web Development</b>.
-
-
-![Hey, I'm Saurabh Kumar](https://user-images.githubusercontent.com/89748411/159933378-64ed983f-c636-4741-8494-19536d1ebe9a.gif)
-
 <h1 align="left">Hey, I'm Saurabh Kumar, a Front-end developer.</h1>
 
 ###

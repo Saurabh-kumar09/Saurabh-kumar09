@@ -1,20 +1,20 @@
-<h1 align="left">Hey, I'm Saurabh Kumar, a Front-end developer.</h1>
+<h1 align="center">Hi ! My name is Saurabh Kumar</h1>
 
 ###
 
-<p align="left">My name is Saurabh and I'm a ..., from ....</p>
+<p align="center">Learn, Connect and Grow</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Building Community @Oreo Droiders<br>📚 I'm currently learning Javascript and building front-end projects.<br>👨‍💻 I'm a front-end web developer.<br>🤝 Connect with me: https://bio.link/saurabhkcg</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -28,6 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Saurab" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Saurab" height="150" alt="languages graph"  />
 </div>
 
 ###

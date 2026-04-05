@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">I’m a Software Engineer who enjoys building systems that actually work in the real world. My work revolves around writing clean, reliable code and understanding how different parts of a system come together.<br>✨ Focus on Mobile application development & in product management.<br>📚 Brainstorming, learning and coding to execute amazing tech solutions.<br> 👨‍💻 I'm a front-end Flutter developer.<br>🤔Language known: Java, Dart, Javascript. <br> 👨‍💻 Interested in learning about new technology, researching & understanding about different products.<br>💡 Check my pinned repo for my top projects. <br>🤝 Connect with me: https://bio.link/saurabhkcg </p>
+<p align="left">
+I’m a Software Engineer focused on building reliable systems and user-facing applications.<br>
+👨‍💻 Working with modern C++, Python, across system logic and mobile development.<br>
+⚙️ Writing clean, maintainable code and solving real-world engineering problems.<br>
+🤖 Exploring AI, automation, and building practical AI-driven solutions.<br>
+🚀 Continuously learning and improving through building and experimentation.<br>
+💡 Check my pinned repos for my work.<br>
+🤝 Connect with me: https://bio.link/saurabhkcg
+</p>
 
 ###
 

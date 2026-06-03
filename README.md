@@ -72,6 +72,10 @@ I’m a Software Engineer focused on building reliable systems and user-facing a
   <img src="https://streak-stats.demolab.com?user=Saurabh-kumar09&theme=default" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saurabh-kumar09&theme=default&hide_border=false&cache_seconds=1800" height="170"/>
+</p>
+
 <br>
 
 ## 📈 Activity Graph

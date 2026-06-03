@@ -72,42 +72,12 @@ I’m a Software Engineer focused on building reliable systems and user-facing a
   <img src="https://streak-stats.demolab.com?user=Saurabh-kumar09&theme=default&hide_border=false&cache_seconds=1800" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saurabh-kumar09/Saurabh-kumar09/output/snake.svg" alt="Snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@yourwakatimeusername"/>
-</p>
-
 <br>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Saurabh-kumar09" alt="GitHub Contribution Chart"/>
-</p>
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-kumar09&theme=default"/>
-</p>
-
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-kumar09&theme=github-light"/>
-</p>
-
-## 📊 Development Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-kumar09&theme=default"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saurabh-kumar09&theme=default&utcOffset=5.5"/>
 </p>
 
 ###

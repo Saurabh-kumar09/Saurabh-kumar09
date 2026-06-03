@@ -76,6 +76,10 @@ I’m a Software Engineer focused on building reliable systems and user-facing a
   <img src="https://streak-stats.demolab.com?user=Saurabh-kumar09&theme=default&hide_border=false&cache_seconds=1800" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saurabh-kumar09&theme=default"/>
+</p>
+
 <br>
 
 ## 📈 Activity Graph
